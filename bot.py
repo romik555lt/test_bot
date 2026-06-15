@@ -4,7 +4,7 @@ from aiogram.utils import executor
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = "ВСТАВЬТЕ_ВАШ_ТОКЕН_ОТ_BOTFATHER"
+BOT_TOKEN = "8504074176:AAGPg8H71gLAMDK1a8lpQU48UuyLbLm0itw"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher(bot)
